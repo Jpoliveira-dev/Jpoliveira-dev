@@ -40,7 +40,7 @@ Estou em busca da **minha primeira oportunidade como estagiário** para evoluir 
 Solução acessível para pessoas com paralisia cerebral se comunicarem com os olhos.  
 **Foco social, controle por movimentos oculares e tecnologia web acessível.**
 
-📚 [**Forwize – Plataforma de Acessibilidade Educacional**](https://github.com/Jpoliveira-dev/forwize-frontend)  
+📚 [**Forwize – Plataforma de Agenciamento de Microempreendedores**](https://github.com/Jpoliveira-dev/forwize-frontend)  
 Front-end de uma aplicação focada em educação inclusiva para pessoas com deficiência.  
 **React + Node.js + PostgreSQL**, site de agenciamento para microempreendedores.
 
