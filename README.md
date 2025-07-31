@@ -48,7 +48,7 @@ Front-end de uma aplicação focada em educação inclusiva para pessoas com def
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-87482a369/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-lima-oliveira-478814361/)
 - ✉️ jp.oliveira.dev@gmail.com
 
 ---
