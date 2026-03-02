@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software (3º semestre) e atualmente atuo como **Estagiário em Suporte de T.I e Desenvolvimento**, participando da construção de um sistema interno com **React, Node.js e banco de dados SQL**.
+Sou estudante de Engenharia de Software (3º semestre) e atualmente atuo como **Estagiário em Suporte de T.I na Digital College**, participando da construção de um sistema interno com **Python e banco de dados SQL**.
 
 Tenho direcionado minha carreira para a área de **Dados**, com foco em:
 
@@ -32,10 +32,6 @@ Tenho direcionado minha carreira para a área de **Dados**, com foco em:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![ETL](https://img.shields.io/badge/ETL-Data%20Pipeline-blue?style=for-the-badge)
 
-### 💻 Desenvolvimento
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
