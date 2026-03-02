@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="500px">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px">
 </p>
 
 <h1 align="center">João Pedro de Lima Oliveira</h1>
@@ -21,7 +21,7 @@
 ## 🚀 Sobre mim
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350px">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="220px">
 </p>
 
 Sou estudante de Engenharia de Software (3º semestre) e atualmente atuo como **Estagiário em Suporte de T.I na Digital College**, participando da construção de soluções internas utilizando **Python e banco de dados SQL**.
@@ -51,24 +51,9 @@ Tenho direcionado minha carreira para a área de **Dados**, com foco em:
 
 ---
 
-### ⚙️ Ferramentas
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Agile-orange?style=for-the-badge)
-
-</p>
-
----
-
 ## 📂 Projeto em Destaque
 
 ### 🔄 Pipeline de ETL com Python
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400px">
-</p>
 
 Projeto simulando um pipeline completo de dados:
 
@@ -80,15 +65,6 @@ Projeto simulando um pipeline completo de dados:
 
 📎 Repositório:  
 👉 **Teste_De_ETL_Simples**
-
----
-
-## 📈 Atualmente estudando
-
-- 📚 Modelagem de Dados  
-- ⚡ Otimização de consultas SQL  
-- 📊 Dashboards estratégicos no Power BI  
-- 🧱 Estruturação de pipelines escaláveis  
 
 ---
 
