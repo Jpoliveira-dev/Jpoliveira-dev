@@ -1,58 +1,76 @@
-<h1 align="center">Olá! Eu sou o João Pedro 👋</h1>
+<h1 align="center">João Pedro de Lima Oliveira</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web em formação <br>
-  🎓 Estudante de desenvolvimento web (18 anos) <br>
-  🚀 Apaixonado por tecnologia, acessibilidade e impacto social
+  📊 Data Analytics • ETL • Business Intelligence  
+  <br>
+  🎓 Estudante de Engenharia de Software  
+  <br>
+  📍 Fortaleza - CE
 </p>
 
 ---
 
-### 🧠 Sobre mim
+## 🚀 Sobre mim
 
-Atualmente estudo desenvolvimento full stack com foco em **front-end**.  
-Gosto de transformar ideias em interfaces intuitivas e funcionais usando:
+Sou estudante de Engenharia de Software (3º semestre) e atualmente atuo como **Estagiário em Suporte de T.I e Desenvolvimento**, participando da construção de um sistema interno com **React, Node.js e banco de dados SQL**.
 
-- ⚛️ **React** + **Tailwind**  
-- 🌐 **JavaScript** + **Node.js**  
-- 💽 **Prisma** + **SQL**  
-- 📦 Estudando também **PHP** e **Laravel**
+Tenho direcionado minha carreira para a área de **Dados**, com foco em:
 
-Estou em busca da **minha primeira oportunidade como estagiário** para evoluir com projetos reais e contribuir com entusiasmo em equipes de tecnologia.
-
----
-
-### 🛠️ Tecnologias que uso
-
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+- 🔎 Análise e manipulação de dados
+- 🔄 Processos de ETL
+- 🧠 Modelagem de dados
+- 📊 Criação de dashboards no Power BI
+- 🐍 Automação com Python
 
 ---
 
-### 📌 Projetos em destaque
+## 🛠️ Tech Stack
 
-🧠 [**Projeto HARPA – Liga Jovem 2025**](https://github.com/Jpoliveira-dev/projeto-liga-jovem)  
-Solução acessível para pessoas com paralisia cerebral se comunicarem com os olhos.  
-**Foco social, controle por movimentos oculares e tecnologia web acessível.**
+### 📊 Dados & BI
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipeline-blue?style=for-the-badge)
 
-📚 [**Forwize – Plataforma de Agenciamento de Microempreendedores**](https://github.com/Jpoliveira-dev/forwize-frontend)  
-Front-end de uma aplicação focada em educação inclusiva para pessoas com deficiência.  
-**React + Node.js + PostgreSQL**, site de agenciamento para microempreendedores.
+### 💻 Desenvolvimento
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Agile-orange?style=for-the-badge)
 
 ---
 
-### 📫 Como me encontrar
+## 📂 Projetos em Destaque
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-lima-oliveira-478814361/)
-- ✉️ jp.oliveira.dev@gmail.com
+### 🔄 Pipeline de ETL com Python
+
+Simulação de um processo completo de ETL:
+
+- Extração de dados
+- Transformação e limpeza
+- JOIN entre tabelas
+- Geração de dataset final
+- Exportação automática em CSV para BI
+
+📎 Repositório:  
+👉 **Teste_De_ETL_Simples**
 
 ---
 
-<p align="center">
-  "Código bom é aquele que alguém entende — inclusive você no futuro." 😉
-</p>
+## 📈 Atualmente estudando
+
+- 📚 Modelagem de Dados
+- ⚡ Otimização de consultas SQL
+- 📊 Dashboards estratégicos no Power BI
+- 🧱 Estruturação de pipelines escaláveis
+
+---
+
+## 📫 Contato
+
+📧 **jp.oliveira.dev@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/joaopedrodelima-dev/)  
+🐙 [GitHub](https://github.com/Jpoliveira-dev)
